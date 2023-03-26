@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FilmFinder/static/css/main.f0f0844b.css",
+    "main.js": "/FilmFinder/static/js/main.1089cf0a.js",
+    "static/media/picture.png": "/FilmFinder/static/media/picture.22286c0f91bc1c963f5d.png",
+    "index.html": "/FilmFinder/index.html",
+    "main.f0f0844b.css.map": "/FilmFinder/static/css/main.f0f0844b.css.map",
+    "main.1089cf0a.js.map": "/FilmFinder/static/js/main.1089cf0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f0844b.css",
+    "static/js/main.1089cf0a.js"
+  ]
+}
