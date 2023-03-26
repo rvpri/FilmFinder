@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="header">
             <div className="headermain">
             <div className="headercontent">
-            <Link to="/"><img src={logo} alt=""  /> </Link>
+            <Link to="/FilmFinder/"><img src={logo} alt=""  /> </Link>
             <Link to="/movies/top_rated" ><span>Top Rated</span></Link>
             <Link to="/movies/upcoming" ><span>Upcoming</span></Link>
             </div>
