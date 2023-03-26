@@ -1,0 +1,80 @@
+.movie{
+    padding: 40px;
+    margin-top: 50px;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+ }
+ 
+ .movie__detail{
+     display: flex;
+     justify-content: center;
+     direction: row;
+     flex-wrap: wrap;
+ }
+ 
+ .movie__detailRight{
+     margin-left: 30px;
+ }
+ 
+ .movie__poster {
+     height: 24rem;
+     width: 15rem;
+   }   
+ 
+ .movie__detailRight{
+     color : white;
+     width: 60%;
+ }
+ .movie__detailRightTop > div{
+     text-shadow: 0px 0px 5px #000000;
+     margin-bottom: .5rem;
+ }
+ 
+ .movie__name {
+     font-weight: 600;
+     font-size: 3rem;
+ }
+ 
+ .movie__voteCount {
+     margin-left: 1rem;
+ }
+ 
+ .movie__genres {
+     margin: 1.25rem 0;
+ }
+ 
+ .movie__genre {
+     padding: .5rem;
+     border: 2px solid white;
+     border-radius: 20px;
+     margin-right: 1rem;
+ }
+ 
+ .movie__detailRightBottom {
+     margin: 2rem 0;
+     flex: 0.8;
+ }
+ 
+ .synopsisText {
+     font-size: 1.5rem;
+     margin-bottom: 1.25rem;
+     font-weight: 600;
+     display: flex;
+     position: relative;
+     align-items: center;
+ }
+ .synopsisText > div:last-of-type {
+     margin-left: auto;
+ }
+ 
+ @media screen and (max-width: 600px){
+ 
+     .movie__detailRight{
+         color : white;
+         width: 80%;
+     }
+     .movie__name {
+         font-weight: 300;
+         font-size: 1.5rem;
+     }
+     }

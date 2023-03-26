@@ -1,8 +1,13 @@
-.error{
-    color:white;
+.page_title{
     font-size: 1.25rem;
     margin:  3rem;
     color: white;
     font-family: 'Noto Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
+}
+
+.movie_cards {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
 }

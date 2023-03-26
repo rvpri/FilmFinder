@@ -1,0 +1,42 @@
+.card{
+    height: 25rem;
+    width: 15rem;
+    margin-right: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: white;
+    background: #1a1a1a;
+    position: relative;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .poster img{
+    width: 100%;
+    max-height: 20rem;
+  }
+  
+  .info{
+    margin-top: 10px;
+    margin-left:5px;
+    margin-right:5px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem;
+  }
+  
+  .title{
+    width: 75%;
+    font-size: 1.0rem;
+    font-weight: bold;
+  }
+  
+  .vote{
+    font-size: 1.0rem;
+    font-weight: bold;
+  }
+  
+  
+  
+  
+  
