@@ -17,14 +17,7 @@
   
 
   .search-icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 40px;
-    height: 40px;
 
-    border-radius: 50%;
-    cursor: pointer;
   }
   
 
@@ -54,14 +47,13 @@
   font-weight: lighter;
   font-size: 18px;
   position: relative;
-  left: 35px;
   top: 2px;
   z-index: 2;
 }
 
 @media screen and (max-width: 600px){
 .search-input {
- width : 80px;
+ width : 70px;
  font-size: 12px;
 }
 }
