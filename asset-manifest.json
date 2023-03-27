@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FilmFinder/static/css/main.f0f0844b.css",
+    "main.css": "/FilmFinder/static/css/main.ecb97529.css",
     "main.js": "/FilmFinder/static/js/main.c0365e2d.js",
     "static/media/picture.png": "/FilmFinder/static/media/picture.22286c0f91bc1c963f5d.png",
     "index.html": "/FilmFinder/index.html",
-    "main.f0f0844b.css.map": "/FilmFinder/static/css/main.f0f0844b.css.map",
+    "main.ecb97529.css.map": "/FilmFinder/static/css/main.ecb97529.css.map",
     "main.c0365e2d.js.map": "/FilmFinder/static/js/main.c0365e2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0f0844b.css",
+    "static/css/main.ecb97529.css",
     "static/js/main.c0365e2d.js"
   ]
 }
